@@ -1,0 +1,9 @@
+version: 0.0
+Resources:
+  - TargetService:
+      Type: AWS::ECS::Service
+      Properties:
+        TaskDefinition: "arn:aws:ecs:$AWS_DEFAULT_REGION:$AWS_ACCOUNT_ID:task-definition/demo-run-task-definition:20"
+        LoadBalancerInfo:
+          ContainerName: "demo-kyamanak"
+          ContainerPort: 80
