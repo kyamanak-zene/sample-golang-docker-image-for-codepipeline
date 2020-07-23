@@ -11,11 +11,11 @@
       ],
       "image": "<IMAGE1_NAME>",
       "essential": true,
-      "name": "demo-kyamanak"
+      "name": "demo-container"
     }
   ],
   "memory": "512",
-  "family": "demo-run-task-definition",
+  "family": "demo-task-definition",
   "requiresCompatibilities": [
     "FARGATE"
   ],
