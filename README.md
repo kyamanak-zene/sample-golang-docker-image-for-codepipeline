@@ -1,1 +1,2 @@
-# sample-golang-docker-image-for-codedeploy
+# sample-golang-docker-image-for-codepipeline
+![Build Status](https://codebuild.ap-northeast-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoid0QwUHVwR05vYVgwbnZHS1NPVWVtZUQzUU1yeTRVanV3ckd0aG52Z2RocmZkSCt6amh3dWp6NmhkWHR6ZmR3N2RWcy9WeStRT3RUWVU3cVh0dFpkekdjPSIsIml2UGFyYW1ldGVyU3BlYyI6Imk0dnMrU0Z1SnBpc0t5UGEiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
